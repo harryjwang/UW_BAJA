@@ -1,6 +1,35 @@
 # BAJA-UW
 Github for all things BAJA SAE 
 
+Repository Breakdown
+|- 2024_2025_REPO
+      |- Codebase
+            |- Accelerometer Code (need z value updates)
+            |- ESP I2C Scanner
+            |- Arduino Nano I2C Scanner (in progress)
+            |- RPM Code
+      |- Electrical
+            |- Resistor Inventory
+            |- Wiring Schematics
+                  |- Fun Buzzer w/ Audio
+                  |- Elvis's Kill swtich and Battery System Schematics
+                  |- Harry's Full Car Schematic With All systems
+      |- Mech_Bridge
+            |- Battery Mount (2023-2024)
+|- Archives
+|- README.md
+
+What does Each Directory Do?
+Code Base: 
+      - This portion of the repository is the code for the data acquisition system (rpm, accelerometer, and strain gauge)
+
+Electrical:
+      - This is the part of the repo with all of the necessary parts for the hardware side includin resistor parts, schematics for things we want to design, etc.
+      - NOTE: schematics for the data acquisition system will also go here
+
+Mech Bridge:
+      - This directory is used to store CAD for mounts, holders, etc. for our electrical components that will need to be mounted onto the car
+
 
 what you will need for the code to work
 
@@ -25,5 +54,3 @@ what you will need for the code to work
 5. Install Adafruit ADXL345 library, add functions for Accelaration Module, ADXL345
    
       https://github.com/adafruit/Adafruit_ADXL345
-
-6.
