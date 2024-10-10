@@ -1,0 +1,35 @@
+Resistor List
+*There are a lot of each of them so if you need, come to the bay and check on what you need*
+
+150 R
+6.8K R
+330 R
+2K R
+100K R
+10 R
+680 R
+47 R
+22K R
+680K R
+4.7K R
+3.3K R
+0 R
+300K R
+470 R
+2.2K R
+270 R
+47K R
+10K R
+22 R
+470K R
+510 R
+5.1K R
+220K R
+51K R
+1M R
+68K R
+1K R
+220 R
+100 R
+5.1K R
+100 R
