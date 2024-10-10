@@ -1,34 +1,22 @@
 # BAJA-UW
 Github for all things BAJA SAE 
 
-Repository Breakdown
-|- 2024_2025_REPO
-      |- Codebase
-            |- Accelerometer Code (need z value updates)
-            |- ESP I2C Scanner
-            |- Arduino Nano I2C Scanner (in progress)
-            |- RPM Code
-      |- Electrical
-            |- Resistor Inventory
-            |- Wiring Schematics
-                  |- Fun Buzzer w/ Audio
-                  |- Elvis's Kill swtich and Battery System Schematics
-                  |- Harry's Full Car Schematic With All systems
-      |- Mech_Bridge
-            |- Battery Mount (2023-2024)
-|- Archives
-|- README.md
+Repository Breakdown</br>
 
-What does Each Directory Do?
-Code Base: 
-      - This portion of the repository is the code for the data acquisition system (rpm, accelerometer, and strain gauge)
+![image](https://github.com/user-attachments/assets/b95e18c9-95e1-47b1-9bae-a60cd33fd22c)
+      
+</br>
+</br>
+What does Each Directory Do?</br>
+Code Base: </br>
+      - This portion of the repository is the code for the data acquisition system (rpm, accelerometer, and strain gauge)</br></br>
 
-Electrical:
-      - This is the part of the repo with all of the necessary parts for the hardware side includin resistor parts, schematics for things we want to design, etc.
-      - NOTE: schematics for the data acquisition system will also go here
+Electrical:</br>
+      - This is the part of the repo with all necessary parts for the hardware side including resistor parts, schematics for things we want to design, etc.</br>
+      - NOTE: schematics for the data acquisition system will also go here</br></br>
 
-Mech Bridge:
-      - This directory is used to store CAD for mounts, holders, etc. for our electrical components that will need to be mounted onto the car
+Mech Bridge:</br>
+      - This directory is used to store CAD for mounts, holders, etc. for our electrical components that will need to be mounted onto the car</br></br>
 
 
 what you will need for the code to work
